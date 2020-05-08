@@ -53,7 +53,7 @@ English | [简体中文](README-zh_CN.md)
 
 > [delon](https://github.com/ng-alain/delon) is a production-ready solution for admin business components packages, Built on the design principles developed by Ant Design.
 
-![scaffold structure ng-alain](.\src\assets\scaffold_structure_Ng_Alain.png)
+![scaffold structure ng-alain](https://github.com/amelieykw/my-first-ng-alain-project/blob/master/src/assets/scaffold_structure_Ng_Alain.png)
 
 ## App Shots
 
